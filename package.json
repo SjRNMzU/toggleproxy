@@ -1,0 +1,10 @@
+{
+  "name": "toggleproxy",
+  "title": "Toggle Proxy",
+  "id": "jid1-QUce4DFqNNwePA",
+  "description": "Toggle Proxy between manual and none",
+  "author": "",
+  "icon": "data/256x256.png",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
